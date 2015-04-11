@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: zhenn
+subtitle: 天行健，君子以自强不息
+description: 
+author: zhenn
 language:
 timezone:
 
@@ -54,6 +54,10 @@ tag_map:
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
+share: false
+
+duoshuo: 720a9265d102322ed8e7c36eb19f0f0b
+
 # Pagination
 ## Set per_page to 0 to disable pagination
 per_page: 10
@@ -62,7 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
