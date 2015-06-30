@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zhenn
+title: zhenn's note
 subtitle: 天行健，君子以自强不息
 description: 
 author: zhenn
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -54,9 +54,10 @@ tag_map:
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
-share: false
+share: true
 
-duoshuo: 720a9265d102322ed8e7c36eb19f0f0b
+duoshuo_shortname: zhenn's note
+#duoshuo_share: true
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -66,7 +67,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: hexo-theme-iOS7
+##theme: hexo-theme-iOS7
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
