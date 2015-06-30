@@ -56,8 +56,9 @@ time_format: HH:mm:ss
 
 share: true
 
-duoshuo_shortname: zhenn's note
-#duoshuo_share: true
+## 多说域名：zhennan.duoshuo.com
+duoshuo_shortname: zhennan
+duoshuo_share: true
 
 # Pagination
 ## Set per_page to 0 to disable pagination
