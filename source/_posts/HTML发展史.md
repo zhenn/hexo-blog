@@ -4,5 +4,9 @@ categories: 技术
 tags: html
 ---
 
+html发展历史：
+
+<!--more-->
+
 ![](/img/htmlhistory.png)
 
